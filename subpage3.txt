@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cloud Security</title>
+</head>
+<body>
+
+<h1>Cloud Security</h1>
+
+<h2>Source 1</h2>
+<table border="1" cellpadding="8">
+    <tr>
+        <td><strong>URL</strong></td>
+        <td><a href="https://www.ibm.com/think/topics/cloud-security">https://www.ibm.com/think/topics/cloud-security</a></td>
+    </tr>
+    <tr>
+        <td><strong>Site Author</strong></td>
+        <td>IBM Think</td>
+    </tr>
+    <tr>
+        <td><strong>Abstract</strong></td>
+        <td>
+            This article explains the core principles of cloud security and why protecting cloud environments requires a shared responsibility between providers and customers. It describes common risks such as misconfigurations, weak access controls, and insecure APIs, which can expose sensitive data if not properly managed. The page also discusses modern security approaches like zero‑trust architecture, encryption, and identity and access management. By outlining both challenges and best practices, the article helps readers understand how organizations can safely adopt cloud technologies while maintaining strong security and compliance standards.
+        </td>
+    </tr>
+</table>
+
+</body>
+</html>

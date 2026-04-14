@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI in Security</title>
+</head>
+<body>
+
+<h1>AI in Security</h1>
+
+<h2>Source 1</h2>
+<table border="1" cellpadding="8">
+    <tr>
+        <td><strong>URL</strong></td>
+        <td><a href="https://www.ibm.com/think/topics/ai-security">https://www.ibm.com/think/topics/ai-security</a></td>
+    </tr>
+    <tr>
+        <td><strong>Site Author</strong></td>
+        <td>IBM Think</td>
+    </tr>
+    <tr>
+        <td><strong>Abstract</strong></td>
+        <td>
+            This article discusses how artificial intelligence is changing cybersecurity by enabling rapid detection and react to threats. It explains how AI systems calculate large volumes of data to spot unusual patterns, automate security tasks, and reduce the heavy-lifting on human analysts. The page also displays difficulties, such as adversarial attacks that try to trick AI models and the need for transparency in automated decision‑making. Overall, the article displays how AI can enhance security defenses while also posing new risks that must be carefully managed.
+        </td>
+    </tr>
+</table>
+
+</body>
+</html>
